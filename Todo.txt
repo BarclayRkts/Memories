@@ -1,0 +1,6 @@
+Next Up:
+
+Fix image upload
+Like Button
+Delete Button
+Make Responsive
